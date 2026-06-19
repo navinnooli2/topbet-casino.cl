@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /go/
+Disallow: /inscription
+Disallow: /connexion
+Disallow: /bonus
+
+Sitemap: https://vave1.fr/sitemap.xml
